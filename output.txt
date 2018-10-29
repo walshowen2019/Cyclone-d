@@ -1,0 +1,2 @@
+The total distance traveled by Hurricane Gloria was 7292.31 km
+Process finished with exit code 0
